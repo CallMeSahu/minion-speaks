@@ -1,0 +1,12 @@
+.text-area{
+    border: solid black;
+    height: 10vh;
+    width: 80%;
+    margin: 1rem 0rem;
+    padding: 1rem;
+}
+
+.label{
+    font-size: large;
+}
+
